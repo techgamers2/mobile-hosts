@@ -1,6 +1,7 @@
+# AdguardMobileAppBanner
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt
-# Last converted - Thu, 02 Nov 2023 16:52:13 +0000
+# Last converted - Thu, 02 Nov 2023 17:25:28 +0000
 #
 
 0.0.0.0 br.app.link
