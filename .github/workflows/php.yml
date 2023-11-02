@@ -24,6 +24,6 @@ jobs:
     - uses: actions/checkout@master
     - uses: nanasess/setup-php@master
       with:
-        php-version: '7.4'
+        php-version: '8.2'
     # This triggers our php file we created before
     - run: php ./converter.php
